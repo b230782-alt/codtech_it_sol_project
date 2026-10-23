@@ -183,23 +183,19 @@ Open a terminal and run:
    cd Smart-AI-Resume-Analyzer
    ```
 
-2. **Create a Virtual Environment(Optional)**
+2. **Create and activate a Python 3.12+ virtual environment**
 
-Set up a virtual environment to manage dependencies:
+Python 3.12 or newer is required by the application's syntax.
 
-```bash
-python -m venv venv
-```
-
-#### **Activate the Virtual Environment:**
-
-- **Windows:**
-  ```bash
-  venv\Scripts\activate
+- **Windows (PowerShell):**
+  ```powershell
+  py -3.12 -m venv .venv
+  .venv\Scripts\Activate.ps1
   ```
-- **MacOS & Linux:**
+- **macOS & Linux:**
   ```bash
-  source venv/bin/activate
+  python3.12 -m venv .venv
+  source .venv/bin/activate
   ```
 
 3. **Install dependencies:**
