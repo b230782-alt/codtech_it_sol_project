@@ -488,9 +488,9 @@ class ResumeApp:
             # Footer text
             st.markdown("""
             <p style='text-align: center;'>
-                Powered by <b>Streamlit</b> and <b>Google Gemini AI</b> | Developed by 
-                <a href="https://www.linkedin.com/in/patel-hetkumar-sandipbhai-8b110525a/" target="_blank" style='text-decoration: none; color: #FFFFFF'>
-                    <b>Het Patel (Hunterdii)</b>
+                Powered by <b>Streamlit</b> and <b>Google Gemini AI</b> | Original project by
+                <a href="https://github.com/b230782-alt" target="_blank" style='text-decoration: none; color: #FFFFFF'>
+                    <b>Manish Godara</b>
                 </a>
             </p>
             <p style='text-align: center; font-size: 13px;'>
