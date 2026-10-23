@@ -33,20 +33,20 @@
      </thead>
     <tbody>
          <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Open PRs" src="https://img.shields.io/github/issues-pr/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Closed PRs" src="https://img.shields.io/github/issues-pr-closed/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&color=critical&logo=github"/></td>
-            <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/b230782-alt/codtech_it_sol_project?style=flat&logo=github"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/b230782-alt/codtech_it_sol_project?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/b230782-alt/codtech_it_sol_project?style=flat&logo=github"/></td>
+            <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/b230782-alt/codtech_it_sol_project?style=flat&logo=github"/></td>
+            <td><img alt="Open PRs" src="https://img.shields.io/github/issues-pr/b230782-alt/codtech_it_sol_project?style=flat&logo=github"/></td>
+            <td><img alt="Closed PRs" src="https://img.shields.io/github/issues-pr-closed/b230782-alt/codtech_it_sol_project?style=flat&color=critical&logo=github"/></td>
+            <td><img alt="Contributors" src="https://img.shields.io/github/contributors/b230782-alt/codtech_it_sol_project?style=flat&logo=github"/></td>
             <td><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open source"/></td>
         </tr>
     </tbody>
 </table>
 
   <h4>
-    <a href="https://resumind.streamlit.app/">View Demo</a>
+    <a href="https://resumeanalysismanish.streamlit.app">View Demo</a>
     <span> · </span>
     <a href="#-setup-in-minutes">Set-Up (Installation)</a>
     <span> · </span>
@@ -58,6 +58,12 @@
       <a href="https://www.linkedin.com/in/het-patel-8b110525a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Het Patel</a>
      </small>
   </p>
+  <p>
+    <small align="justify">
+      Customized and deployed by
+      <a href="https://github.com/b230782-alt">Manish Godara</a>
+    </small>
+  </p>
   <small align="justify"><img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> A Project Submitted for the partial fulfilment of the degree BCA at 
     <a href="https://paruluniversity.ac.in/">Parul University</a> during academic year 2024-25
   </small>
@@ -67,15 +73,15 @@
 
 ## 🔗 **Helpful Links**
 
-- [![Streamlit Badge](https://img.shields.io/badge/Live%20Demo-Streamlit-orange?style=for-the-badge&logo=streamlit&logoColor=white)](https://resumind.streamlit.app/)  
+- [![Streamlit Badge](https://img.shields.io/badge/Live%20Demo-Streamlit-orange?style=for-the-badge&logo=streamlit&logoColor=white)](https://resumeanalysismanish.streamlit.app)
 
 - [![Documentation Badge](https://img.shields.io/badge/Documentation-Request-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:het8185@gmail.com?subject=Request%20Documentation%20for%20Smart%20AI%20Resume%20Analyzer&body=Hi%20Het%20Patel,%0D%0AI%20am%20interested%20in%20learning%20more%20about%20your%20project,%20Smart%20AI%20Resume%20Analyzer.%20Here%20are%20my%20details:%0D%0A%0D%0AName:%0D%0AOrganization/College:%0D%0APurpose%20of%20request:%0D%0A%0D%0AThanks!)  
 
 - [![AI Models Badge](https://img.shields.io/badge/AI%20Models-Documentation-purple?style=for-the-badge&logo=openai&logoColor=white)](AI_MODELS.md)  
 
-- [![Contribution Guide Badge](https://img.shields.io/badge/Contribution%20Guide-Read%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer/blob/main/.github/CONTRIBUTING.md)   
+- [![Contribution Guide Badge](https://img.shields.io/badge/Contribution%20Guide-Read%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b230782-alt/codtech_it_sol_project/blob/main/.github/CONTRIBUTING.md)
 
-- [![Support Badge](https://img.shields.io/badge/Support%20%26%20Feedback-Discussion-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer/discussions)  
+- [![Support Badge](https://img.shields.io/badge/Support%20%26%20Feedback-Discussion-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b230782-alt/codtech_it_sol_project/issues)
   
 ## <img src="https://github.com/user-attachments/assets/a6e4d77f-56d6-4aa8-8278-0f5a18ef5eb9" width="24px"> **What Makes Us Different?**  
 
@@ -101,7 +107,7 @@
 Get real-time feedback, boost your resume's impact, and maximize your chances of getting shortlisted—all with a sleek and intuitive interface.  
 
 ## <img src="https://github.com/user-attachments/assets/e5ac1371-6ac4-48b6-b95c-5ef9afaf1353" width="30"> **Live Demo**  
-👨‍💻 Try it Now: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://resumind.streamlit.app/)  
+👨‍💻 Try it Now: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://resumeanalysismanish.streamlit.app)
 
 
 ## <img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px">  Tech Stack 
@@ -179,8 +185,8 @@ Follow the steps below to set up and run the **Smart AI Resume Analyzer** on you
 Open a terminal and run:
 
    ```bash
-   git clone https://github.com/Hunterdii/resume-analyzer-ai.git
-   cd Smart-AI-Resume-Analyzer
+   git clone https://github.com/b230782-alt/codtech_it_sol_project.git
+   cd codtech_it_sol_project
    ```
 
 2. **Create and activate a Python 3.12+ virtual environment**
@@ -345,7 +351,7 @@ Smart-AI-Resume-Analyzer/
 
 ### Getting Help
 
-If you encounter any issues, please [open an issue](https://github.com/yourusername/Smart-AI-Resume-Analyzer/issues) on GitHub.
+If you encounter any issues, please [open an issue](https://github.com/b230782-alt/codtech_it_sol_project/issues) on GitHub.
 
 ## Contributing
 
@@ -425,11 +431,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [🏠 HOME](https://resumind.streamlit.app/)
+   [🏠 HOME](https://resumeanalysismanish.streamlit.app)
    </b></td>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(Below Example Analysis of Backend Deeveloper)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(Below Example Analysis of Backend Deeveloper)](https://resumeanalysismanish.streamlit.app)
 </b></td>  
 </tr>  
 <tr>  
@@ -439,11 +445,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(Score And Recommendations)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(Score And Recommendations)](https://resumeanalysismanish.streamlit.app)
    </b></td>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(According To Roles Recommendations)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(According To Roles Recommendations)](https://resumeanalysismanish.streamlit.app)
    </b></td>  
 </tr>  
 <tr>  
@@ -454,11 +460,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(According To Roles Course Recommendations)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(According To Roles Course Recommendations)](https://resumeanalysismanish.streamlit.app)
    </b></td>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(Videos Recommendations)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(Videos Recommendations)](https://resumeanalysismanish.streamlit.app)
    </b></td>  
 </tr>  
 <tr>  
@@ -472,7 +478,7 @@ Join the mission! Here's how:
 </b></td>  
 <td align="center"><b>
    
-   [📊 DASHBOARD](https://resumind.streamlit.app/)
+   [📊 DASHBOARD](https://resumeanalysismanish.streamlit.app)
 </b></td>  
 </tr>  
 <tr>  
@@ -482,11 +488,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [🎯 JOB SEARCH](https://resumind.streamlit.app/)
+   [🎯 JOB SEARCH](https://resumeanalysismanish.streamlit.app)
    </b></td>  
 <td align="center"><b>
    
-   [🎯 JOB SEARCH(📊 Job Market Insights & 🏢 Featured Companies)](https://resumind.streamlit.app/)
+   [🎯 JOB SEARCH(📊 Job Market Insights & 🏢 Featured Companies)](https://resumeanalysismanish.streamlit.app)
    </b></td>  
 </tr>  
 <tr>  
@@ -496,11 +502,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [💬 FEEDBACK](https://resumind.streamlit.app/)
+   [💬 FEEDBACK](https://resumeanalysismanish.streamlit.app)
    </b></td>  
 <td align="center"><b>
    
-   [ℹ️ ABOUT](https://resumind.streamlit.app/)
+   [ℹ️ ABOUT](https://resumeanalysismanish.streamlit.app)
    </b></td>  
 </tr>  
 <tr>  
@@ -519,11 +525,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>  
    
-   [🔍 AI Resume Analysis (Custom Job Description)](https://resumind.streamlit.app/)
+   [🔍 AI Resume Analysis (Custom Job Description)](https://resumeanalysismanish.streamlit.app)
    </b></td>  
 <td align="center"><b>  
    
-   [📊 AI Resume Score & Statistics](https://resumind.streamlit.app/)
+   [📊 AI Resume Score & Statistics](https://resumeanalysismanish.streamlit.app)
 </b></td>  
 </tr>  
 
@@ -535,11 +541,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>  
    
-   [📄 AI-Generated PDF Resume Report](https://resumind.streamlit.app/)
+   [📄 AI-Generated PDF Resume Report](https://resumeanalysismanish.streamlit.app)
    </b></td>  
 <td align="center"><b>  
    
-   [📊 AI Resume Analysis Insights](https://resumind.streamlit.app/)
+   [📊 AI Resume Analysis Insights](https://resumeanalysismanish.streamlit.app)
    </b></td>  
 </tr>  
 
@@ -551,11 +557,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>  
    
-   [🔗 LinkedIn Job Scraper (Search Results)](https://resumind.streamlit.app/)
+   [🔗 LinkedIn Job Scraper (Search Results)](https://resumeanalysismanish.streamlit.app)
    </b></td>  
 <td align="center"><b>  
    
-   [🏢 LinkedIn Scraper (Job Listings UI)](https://resumind.streamlit.app/)
+   [🏢 LinkedIn Scraper (Job Listings UI)](https://resumeanalysismanish.streamlit.app)
    </b></td>  
 </tr>  
 
@@ -582,17 +588,20 @@ Join the mission! Here's how:
 
 ## 📄 **License**  
 
-This project is licensed under the [MIT License](https://github.com/Hunterdii/resume-analyzer-ai/blob/main/LICENSE).  
+This project is licensed under the [MIT License](./LICENSE).
 
 
 ## 🌟 **GitHub Repo**  
 
-Explore the code, contribute, or drop a <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:20px; color: #FFD700" alt="Star GIF"> : [Smart Resume AI Repository](https://github.com/Hunterdii/resume-analyzer-ai)  
+Explore the code, contribute, or drop a <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:20px; color: #FFD700" alt="Star GIF"> : [Manish Godara's Smart Resume AI Repository](https://github.com/b230782-alt/codtech_it_sol_project)
 
-## 🛡️ Maintainer  
+## 🛡️ Project History and Maintainers
 
-> **_This repository is maintained by [Hunterdii](https://github.com/Hunterdii)._**  
-> Have suggestions? Feel free to reach out to [me via email](mailto:het8185@gmail.com). 📧
+This repository is a customized version of [Smart AI Resume Analyzer](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer), originally developed by [Het Patel (Hunterdii)](https://github.com/Hunterdii). The original MIT license and copyright notice are retained in [LICENSE](./LICENSE).
+
+- **Current repository maintainer and deployment:** [Manish Godara](https://github.com/b230782-alt)
+- **Live app:** [resumeanalysismanish.streamlit.app](https://resumeanalysismanish.streamlit.app)
+- **Original upstream project maintainer:** [Hunterdii](https://github.com/Hunterdii)
 
 
 ## 📰 News  
