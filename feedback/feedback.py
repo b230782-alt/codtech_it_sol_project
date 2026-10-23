@@ -258,9 +258,6 @@ class FeedbackManager:
                     </div>
                 """, unsafe_allow_html=True)
                 
-                # Show balloons animation
-                st.balloons()
-                
                 # Keep success message visible
                 time.sleep(2)
                 
