@@ -55,7 +55,7 @@
   <p>
     <small align="justify">
       Built with <img src="https://github.com/user-attachments/assets/00314b63-96bb-4e9a-92f6-4ead67e0fb7d" width="25" height="25"> by 
-      <a href="https://www.linkedin.com/in/het-patel-8b110525a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Het Patel</a>
+      <a href="https://www.linkedin.com/in/het-patel-8b110525a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Manish Godara</a>
      </small>
   </p>
   <p>
@@ -597,7 +597,7 @@ Explore the code, contribute, or drop a <img src="https://github.com/user-attach
 
 ## 🛡️ Project History and Maintainers
 
-This repository is a customized version of [Smart AI Resume Analyzer](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer), originally developed by [Het Patel (Hunterdii)](https://github.com/Hunterdii). The original MIT license and copyright notice are retained in [LICENSE](./LICENSE).
+This repository is a customized version of [Smart AI Resume Analyzer](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer), originally developed by [Manish Godara (Hunterdii)](https://github.com/Hunterdii). The original MIT license and copyright notice are retained in [LICENSE](./LICENSE).
 
 - **Current repository maintainer and deployment:** [Manish Godara](https://github.com/b230782-alt)
 - **Live app:** [resumeanalysismanish.streamlit.app](https://resumeanalysismanish.streamlit.app)
